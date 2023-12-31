@@ -25,7 +25,7 @@ const ProfileHeader: React.FC<ContainerProps> = ({ name, email }) => {
           <div className="profcard">
             <img
               className="profimg"
-              src="https://www.codingthewheel.com/Coding%20the%20Wheel.jpg"
+              src="https://heroshotphotography.com/wp-content/uploads/2023/03/male-linkedin-corporate-headshot-on-white-square-1024x1024.jpg"
             ></img>
             <div className="name">
               <strong>{name}</strong>
