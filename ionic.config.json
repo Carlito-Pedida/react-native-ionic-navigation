@@ -1,0 +1,7 @@
+{
+  "name": "l04-assignment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
